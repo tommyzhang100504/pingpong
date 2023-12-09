@@ -180,7 +180,7 @@ li {
     margin-right: 20px;
     margin-bottom: 10px;
     border-radius: 5px;
-    font-size: 30px;
+    font-size: 20px;
     padding: 12px;
 }
 
@@ -203,7 +203,7 @@ li {
 }
 
 .small {
-    font-size: 20px !important;
+    font-size: 15px !important;
     padding-left: 20px;
     font-size: 5px;
 }
